@@ -1,0 +1,15 @@
+#Q    Is it a mammal?
+#Q    Does it have stripes?
+#A    Is it a zebra?
+#Q   Does it lay eggs?
+#A   Is it a platypus?
+#A    Is it a lion?
+#Q    Is it a bird?
+#Q    Does it fly?
+#A    Is it an eagle?
+#A    Is it a penguin?
+#Q  Is it twisty?
+#Q Does it live underwater?
+#A is it a fish?
+#A  Is it a snake?
+#A    Is it a gila monster?
